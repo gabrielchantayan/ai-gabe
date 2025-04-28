@@ -63,7 +63,7 @@ This script will:
 After CSV generation, run the divine conversations script:
 
 ```bash
-npx ts-node ig-msg-divine-convos.ts
+npm run divine-ig
 ```
 
 This script will:
